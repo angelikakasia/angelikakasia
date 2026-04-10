@@ -1,15 +1,32 @@
 ## Hi there 👋
 
+I’m Angelika — a cybersecurity and AI-focused builder exploring how modern systems behave under pressure, not just how they’re supposed to work.
 
-**angelikakasia/angelikakasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in threat modeling, cloud security, and the emerging risks around AI-driven systems. Most of my time goes into understanding failure paths, attack surfaces, and how to design systems that don’t quietly break in production.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔍 Currently:
+- Exploring how to evaluate AI system risk 
+- Building and testing ideas quietly in the background  
+
+🤝 Open to:
+- Threat Model together
+- To new Mentors
+- Conversations with people who think deeply about security and have similar intrests
+- Collaboration on meaningful, hands-on projects 
+
+
+💬 Ask me about:
+- Threat modeling  
+- Incident response 
+- Agentic AI
+
+✍️ I also write here:
+- Medium: https://medium.com/@angelska327
+
+📫 Reach me:
+- on Discord Suzana.ai
+
+⚡ Fun fact:
+I trust side projects and real conversations far more than anything I learned in school.
+I have two fluffy guinea pigs that live in separate cages because they hate and love each other simulatneously.
