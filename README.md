@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33c51602-7b1a-429f-a292-7b497376ebe8" width="200" style="border-radius: 50%;" />
-</p>
+<img width="473" height="450" alt="Image" src="https://github.com/user-attachments/assets/4c38bfc5-d748-42e7-ab1f-f7859fd89505" />
 
 I’m Angelika — a cybersecurity and AI-focused builder exploring how modern systems behave under pressure, not just how they’re supposed to work.
 
