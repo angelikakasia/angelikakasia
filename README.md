@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="244" height="415" alt="Image" src="https://github.com/user-attachments/assets/33c51602-7b1a-429f-a292-7b497376ebe8" />
+
 I’m Angelika — a cybersecurity and AI-focused builder exploring how modern systems behave under pressure, not just how they’re supposed to work.
 
 I’m interested in threat modeling, cloud security, and the emerging risks around AI-driven systems. Most of my time goes into understanding failure paths, attack surfaces, and how to design systems that don’t quietly break in production.
