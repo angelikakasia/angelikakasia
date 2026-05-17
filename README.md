@@ -9,7 +9,7 @@ I’m interested in threat modeling, cloud security, and the emerging risks arou
 
 
 # 🔍 Currently:
-- Exploring how to evaluate AI system risk 
+- Working on the AI Engineer project
 - Building and testing ideas quietly in the background  
 
 # 🤝 Open to:
@@ -32,4 +32,4 @@ I’m interested in threat modeling, cloud security, and the emerging risks arou
 
 # ⚡ Fun fact:
 I trust side projects and real conversations far more than anything I learned in school.
-I have two fluffy guinea pigs that live in separate cages because they hate and love each other simulatneously.
+I love guinea pigs!
