@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-<img width="463" height="467" alt="Image" src="https://github.com/user-attachments/assets/6e90227f-1054-444b-9bde-47ecb1956920" />
 
 <p align="center">
   <img width="252" height="256" alt="Image" src="https://github.com/user-attachments/assets/b85e7836-be18-47d2-a9ec-cb12205fb496" />  
@@ -15,7 +13,7 @@ My interests include:
 - Cloud security
 - Agentic AI and AI system risks
 
-I am currently studying Cybersecurity Technology and Information Technology at Southern Illinois University while also completing an Associate degree in Software Development at Wilbur Wright College.
+I am currently studying for dual bachelor’s degrees in Cybersecurity Technology and Information Technology while also completing a second Associate degree in Software Development.
 
 ##  Currently
 - Completing an AI Engineering course
@@ -41,4 +39,8 @@ I am currently studying Cybersecurity Technology and Information Technology at S
 - Discord: Suzana.ai
 
 ## ⚡ Fun fact
+I like to spend time with like-minded people. 
 I love side projects, deep technical conversations, techno, ocean, and guinea pigs.
+
+<p align="center">
+<img width="463" height="467" alt="Image" src="https://github.com/user-attachments/assets/6e90227f-1054-444b-9bde-47ecb1956920" />
