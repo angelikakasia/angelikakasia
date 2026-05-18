@@ -33,7 +33,7 @@ I am currently studying for dual bachelor’s degrees in Cybersecurity Technolog
 - Agentic AI
 
 ##  Writing
-- Medium: https://medium.com/@angelska327
+- Medium: [Threat Modeling with Shostack](https://medium.com/@angelska327/threat-modeling-with-adam-shostack-200eec3b2693)
 
 ##  Reach me
 - Discord: Suzana.ai
