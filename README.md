@@ -48,7 +48,8 @@ I’m Angelika, a cybersecurity and AI-focused builder interested in securing ag
 
 ## ⚡ Fun fact
 
-I enjoy deep technical conversations, side projects, techno, the ocean, and spending time with like-minded people — and I have a fluffy guinea pig. Mommy's girl.
+I enjoy deep technical conversations, side projects, techno, the ocean, and spending time with like-minded people, and I have a fluffy guinea pig. 
+She is a mommy's girl.
 
 
 <p align="center">
