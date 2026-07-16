@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img width="280" alt="Angelika Szymanowska" src="<img width="655" height="798" alt="Image" src="https://github.com/user-attachments/assets/1c6ae8b5-7188-48df-aed4-81de51a8ffd6" />"
+  <img width="280" alt="Angelika Szymanowska" src="https://github.com/user-attachments/assets/1c6ae8b5-7188-48df-aed4-81de51a8ffd6" />
 </p>
 
 I’m Angelika — a cybersecurity student and AI security builder focused on securing agentic AI systems. I explore how modern AI behaves under pressure, drifts over time, and propagates risk across tools, memory, and multi-agent environments.
@@ -64,5 +64,3 @@ I enjoy deep technical conversations, side projects, techno, the ocean, and spen
 
 ---
 
-**Currently building secure agentic AI systems** • Passionate about turning vulnerabilities into stronger defenses  
-Chicago, IL | Active Secret Clearance
