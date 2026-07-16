@@ -13,16 +13,20 @@ I’m Angelika - a cybersecurity student and AI security builder focused on secu
 - Threat modeling and AI system risks
 - Memory integrity & persistence in AI agents
 - Incident response
-- Cloud security
 - AI evaluation and reliability
 
 ---
 
 ## Currently
-- **Section Lead - Memory Integrity & Persistence** at OWASP Agentic Security Initiative  
+- Section Lead – Memory Integrity & Persistence at OWASP Agentic Security Initiative  
   Contributing security guidance on memory poisoning, persistent malicious instructions, integrity verification, and cross-session contamination risks in agentic AI systems.
 - Pursuing dual B.S. degrees in Cybersecurity Technology and Information Technology + A.S. in Software Development (GPA 4.0)
-- Completing advanced training in AI engineering, agentic AI systems, threat modeling, and AI security
+- Preparing to support my instructor and the team as a Training Assistant across five Black Hat USA 2026 training sessions focused on AI application security, agent security, and practical AI defenses.
+- Courses in Progress:
+  - HackDefender Crimeware Defender Academy (malware analysis and threat investigation)
+  - AWS AI Engineering (Udacity) hands-on agentic AI projects
+  - AI Open Source Capstone (CodePath) hands-on AI engineering
+  - Google’s Gemini Enterprise Agent Ready (GEAR) Agentic AI
 - Building hands-on AI & cybersecurity projects focused on behavioral drift, memory persistence, multi-agent risk propagation, and system reliability
 - Exploring AI evaluation, threat modeling, incident response, and emerging risks in autonomous systems
 
@@ -31,7 +35,7 @@ I’m Angelika - a cybersecurity student and AI security builder focused on secu
 ## Open To
 - AI security and threat modeling collaborations
 - Research-oriented and hands-on technical projects
-- Conversations around agentic AI, memory security, and AI system safety
+- Conversations around memory security
 - Mentorship and learning opportunities
 
 ---
