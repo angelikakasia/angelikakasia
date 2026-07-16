@@ -4,7 +4,7 @@
   <img width="280" alt="Angelika Szymanowska" src="https://github.com/user-attachments/assets/1c6ae8b5-7188-48df-aed4-81de51a8ffd6" />
 </p>
 
-I’m Angelika — a cybersecurity student and AI security builder focused on securing agentic AI systems. I explore how modern AI behaves under pressure, drifts over time, and propagates risk across tools, memory, and multi-agent environments.
+I’m Angelika - a cybersecurity student and AI security builder focused on securing agentic AI systems. I explore how modern AI behaves under pressure, drifts over time, and propagates risk across tools, memory, and multi-agent environments.
 
 ---
 
@@ -19,7 +19,7 @@ I’m Angelika — a cybersecurity student and AI security builder focused on se
 ---
 
 ## Currently
-- **Section Lead – Memory Integrity & Persistence** at OWASP Agentic Security Initiative  
+- **Section Lead - Memory Integrity & Persistence** at OWASP Agentic Security Initiative  
   Contributing security guidance on memory poisoning, persistent malicious instructions, integrity verification, and cross-session contamination risks in agentic AI systems.
 - Pursuing dual B.S. degrees in Cybersecurity Technology and Information Technology + A.S. in Software Development (GPA 4.0)
 - Completing advanced training in AI engineering, agentic AI systems, threat modeling, and AI security
@@ -56,7 +56,7 @@ I’m Angelika — a cybersecurity student and AI security builder focused on se
 ---
 
 ## Fun Fact
-I enjoy deep technical conversations, side projects, techno, the ocean, and spending time with like-minded people. I also have a fluffy guinea pig — she’s a total mommy’s girl.
+I enjoy deep technical conversations, side projects, techno, the ocean, and spending time with like-minded people. I also have a fluffy guinea pig - she’s a total mommy’s girl.
 
 <p align="center">
   <img width="420" alt="Guinea Pig" src="https://github.com/user-attachments/assets/6e90227f-1054-444b-9bde-47ecb1956920" />
