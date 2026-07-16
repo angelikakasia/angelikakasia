@@ -18,7 +18,7 @@ I’m Angelika - a cybersecurity student and AI security builder focused on secu
 ---
 
 ## Currently
-- Section Lead – Memory Integrity & Persistence at OWASP Agentic Security Initiative  
+- Section Lead - Memory Integrity & Persistence at OWASP Agentic Security Initiative  
   Contributing security guidance on memory poisoning, persistent malicious instructions, integrity verification, and cross-session contamination risks in agentic AI systems.
 - Pursuing dual B.S. degrees in Cybersecurity Technology and Information Technology + A.S. in Software Development (GPA 4.0)
 - Preparing to support my instructor and the team as a Training Assistant across five Black Hat USA 2026 training sessions focused on AI application security, agent security, and practical AI defenses.
@@ -60,7 +60,7 @@ I’m Angelika - a cybersecurity student and AI security builder focused on secu
 ---
 
 ## Fun Fact
-I enjoy deep technical conversations, side projects, techno, the ocean, and spending time with like-minded people. I also have a fluffy guinea pig - she’s a total mommy’s girl.
+I enjoy deep technical conversations, side projects, techno, the ocean, and spending time with like-minded people. I love to spend time with my guinea pig.
 
 <p align="center">
   <img width="420" alt="Guinea Pig" src="https://github.com/user-attachments/assets/6e90227f-1054-444b-9bde-47ecb1956920" />
