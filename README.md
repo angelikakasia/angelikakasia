@@ -61,8 +61,7 @@ Blog:
 
 ---
 
-## Fun Fact
-I enjoy deep technical conversations, side projects, techno, the ocean, and spending time with like-minded people. I love to spend time with my guinea pig.
+I enjoy working on projects, listening to techno, spending time by the ocean, being around like-minded people and spending time with my guinea pigs.
 
 <p align="center">
   <img width="420" alt="Guinea Pig" src="https://github.com/user-attachments/assets/6e90227f-1054-444b-9bde-47ecb1956920" />
