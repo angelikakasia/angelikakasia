@@ -5,6 +5,8 @@
 </p>
 
 I’m Angelika - a cybersecurity student and AI security builder focused on securing agentic AI systems. I explore how modern AI behaves under pressure, drifts over time, and propagates risk across tools, memory, and multi-agent environments.
+
+
 Blog: 
 - [Persistent Memory](https://medium.com/@angelska327/persistent-memory-as-a-security-boundary-in-agentic-ai-f1ef2dcc05f2) on Medium
 
