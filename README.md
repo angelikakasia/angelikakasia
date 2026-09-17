@@ -28,7 +28,9 @@ Blog:
 - Offensive security
 - Cloud security
 
---- ## Currently 
+--- 
+
+## Currently 
 - Building AI security and cybersecurity projects
 - Training as a CodePath open-source contributor
 - Studying AWS AI Engineering
@@ -41,6 +43,7 @@ Blog:
 - Research collaborations
 - Open-source projects
 - Mentorship
+  
 ---
   
 ## Ask Me About 
@@ -49,7 +52,9 @@ Blog:
 - Threat modeling
 - Incident response
 
- --- ## Writing 
+ --- 
+ 
+ ## Writing 
 - [Persistent Memory](https://medium.com/@angelska327/persistent-memory-as-a-security-boundary-in-agentic-ai-f1ef2dcc05f2)
 - [Threat Modeling with Shostack](https://medium.com/@angelska327/threat-modeling-with-adam-shostack-200eec3b2693)
 
@@ -59,6 +64,7 @@ Blog:
   - Discord: Suzana.ai
   
    ---
+  
    I enjoy building projects, listening to techno, spending time by the ocean and hanging out with my guinea pigs.
 
   <p align="center"> <img width="420" alt="Guinea Pig" src="https://github.com/user-attachments/assets/6e90227f-1054-444b-9bde-47ecb1956920" /> </p>
