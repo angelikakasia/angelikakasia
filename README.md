@@ -52,18 +52,18 @@ Blog:
 - Threat modeling
 - Incident response
 
- --- 
+--- 
  
  ## Writing 
 - [Persistent Memory](https://medium.com/@angelska327/persistent-memory-as-a-security-boundary-in-agentic-ai-f1ef2dcc05f2)
 - [Threat Modeling with Shostack](https://medium.com/@angelska327/threat-modeling-with-adam-shostack-200eec3b2693)
 
-  ---
+---
 
   ## Reach Me
   - Discord: Suzana.ai
   
-   ---
+---
   
    I enjoy building projects, listening to techno, spending time by the ocean and hanging out with my guinea pigs.
 
