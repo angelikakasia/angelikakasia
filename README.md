@@ -1,9 +1,4 @@
-# Hi there 👋
-
-<p align="center">
-  <img width="280" alt="Angelika Szymanowska" src="https://github.com/user-attachments/assets/1c6ae8b5-7188-48df-aed4-81de51a8ffd6" />
-</p>
-
+# Hi
 Early-career cybersecurity practitioner focused on AI security, threat modeling, agentic AI, and traceability. I contribute to OWASP’s AI security initiatives, have incident response experience from Blue Cross Blue Shield, and build hands-on cybersecurity projects alongside my academic work. I am pursuing a B.S. in Cybersecurity and Information Technology at Southern Illinois University Carbondale while also studying Software Development at Wilbur Wright College. 
 
 Alongside my studies, I contribute to the OWASP Agentic AI Security Initiative as Section Lead for Memory Integrity and Persistence, helping develop guidance for securing agentic AI systems. I am also involved in additional OWASP AI security work focused on traceability and maturity models, and I am training as a CodePath open-source contributor. 
