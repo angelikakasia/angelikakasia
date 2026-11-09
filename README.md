@@ -31,6 +31,7 @@ I also volunteer at cybersecurity conferences, including Black Hat USA, where I 
 - Mentorship
 
 ## Writing
+- [PHP2Shell Exploit: CVE-2026-109618 & CVE-2026-109619, From Out-of-Memory to Remote Code Execution](https://medium.com/@angelska327/exploit-php2shell-cve-2026-109618-109619-from-out-of-memory-to-remote-code-execution-ad6d66b3871d)
 - [Persistent Memory as a Security Boundary in Agentic AI](https://medium.com/@angelska327/persistent-memory-as-a-security-boundary-in-agentic-ai-f1ef2dcc05f2)
 - [Threat Modeling with Adam Shostack](https://medium.com/@angelska327/threat-modeling-with-adam-shostack-200eec3b2693)
 
